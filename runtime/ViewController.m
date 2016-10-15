@@ -18,10 +18,6 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    
-
-    
-    
 }
 
 - (IBAction)click:(id)sender {
